@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💊 PharmaStock Manager
 
 **PharmaStock Manager** is a simple and efficient web-based application built using **HTML, CSS, JavaScript, PHP, and MySQL**. It helps medical shops or pharmacies manage their inventory, sales, and user accounts effectively.
@@ -172,3 +173,6 @@ This project is created as part of an academic course. You are free to use or ad
 
 
 
+=======
+# medivault
+>>>>>>> ba290760b09779a56a91564348e8f9e2cfbbb5fa
